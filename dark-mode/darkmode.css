@@ -15,7 +15,7 @@ body section.sidebar div.labels ul li a:hover {
 }
 
 .storageBar .storageBar-progress {
-    background-color: red !important;
+    background-color:#d23f31 !important;
 }
 #pm_main {
   background-color: #141414 !important;
@@ -24,7 +24,7 @@ body section.sidebar div.labels ul li a:hover {
 
 .message-body-container a{
 
-  color: red;
+  color:#d23f31;
 }
 #pm_toolbar-desktop,
 body #conversation-list-rows,
@@ -83,7 +83,7 @@ body section.sidebar .pm_button.compose, body section.sidebar .sidebar-btn-back 
   top: 7px;
 }
 #pm_composer .composer header {
-  background: #ffffff !important;
+  background: #292929fff !important;
 }
 #pm_composer .composer header .actions .pm_button:hover {
   background: #666 !important;
@@ -233,7 +233,7 @@ html.protonmail body {
 
 html.protonmail body.blank,
 html.protonmail body.secure {
-  background: #FFF;
+  background: #292929;
 }
 
 html.protonmail .visionary {
@@ -265,7 +265,7 @@ html.protonmail .text-red {
 }
 
 html.protonmail .text-purple {
-  color: red !important;
+  color:#d23f31 !important;
 }
 
 html.protonmail .border-panel {
@@ -460,7 +460,7 @@ body.mobileMode #pm_sidebar section.sidebar ul.menu li button {
 }
 
 messageExtra-container>[class*=-container] {
-    background: #ffffff !important;
+    background: #292929fff !important;
 }
 
 #conversation-view .message {
@@ -481,14 +481,14 @@ messageExtra-container>[class*=-container] {
 }
 
 #conversation-view .message.unread > div.summary {
-  background: #FFF;
+  background: #292929;
 }
 
 #conversation-view .message.unread > div.summary .labels,
 #conversation-view .message.unread > div.summary .status,
 #conversation-view .message.unread > div.summary .time,
 #conversation-view .message.unread > div.summary .time::after {
-  background: #FFF !important;
+  background: #292929 !important;
 }
 
 #conversation-view .message.unread > div.summary .labels .pm_labels label {
@@ -536,7 +536,7 @@ messageExtra-container>[class*=-container] {
 }
 
 #conversation-view .message > div.details .pm_buttons a {
-  background: #FFF;
+  background: #292929;
 }
 
 #conversation-view .message > div.details .recipients-details .from,
@@ -660,11 +660,11 @@ body#reset .alert {
 }
 
 #pm_composer .composer {
-  background: #FFF;
+  background: #292929;
 }
 
 #pm_composer .composer .meta input {
-  background: #FFF;
+  background: #292929;
 }
 
 #pm_composer .composer .fill {
@@ -682,7 +682,7 @@ body#reset .alert {
 }
 
 #pm_composer .composer .askEmbedding ul {
-  background: #FFF;
+  background: #292929;
   border: 1px solid rgba(0, 0, 0, 0.2);
 }
 
@@ -712,7 +712,7 @@ body#reset .alert {
 }
 
 #pm_composer .composer .previews .pm_button {
-  background: #FFF;
+  background: #292929;
 }
 
 #pm_composer .composer.attachmentsOpen .attachmentBar {
@@ -796,7 +796,7 @@ body#reset .alert {
 }
 
 .squire-popover {
-  background: #FFF;
+  background: #292929;
   border: 1px solid #333333;
 }
 
@@ -818,7 +818,7 @@ body#reset .alert {
 #pm_settings .usage .total,
 #pm_settings .usage .used {
   color: #CCC;
-  background: #FFF;
+  background: #292929;
 }
 
 #pm_settings .usage .bar {
@@ -840,7 +840,7 @@ body#reset .alert {
 }
 
 #pm_settings .pm_tabs li.active a.pm_button {
-  background: #FFF;
+  background: #292929;
   color: #141414;
   border-bottom-color: #FFF;
 }
@@ -867,11 +867,11 @@ body#reset .alert {
 
 #pm_settings .settings .row .setting .as-sortable-dragging {
   border: 1px solid #333333;
-  background: #FFF;
+  background: #292929;
 }
 
 #pm_settings .settings .row .setting .as-sortable-dragging .fa-check {
-  background: #FFF;
+  background: #292929;
   color: #141414;
 }
 
@@ -884,7 +884,7 @@ body.mobileMode #pm_settings .settings .pm_sort ul {
 }
 
 body.mobileMode #pm_settings .pm_tabs {
-  background: #FFF;
+  background: #292929;
 }
 
 body.mobileMode #pm_settings .pm_tabs > li > a.pm_button {
@@ -1029,7 +1029,7 @@ body#eo-reply footer {
 
 .outside .display-embedded,
 .outside .display-image {
-  background: #FFF;
+  background: #292929;
   border: 1px solid #333333;
 }
 
@@ -1041,7 +1041,7 @@ body#eo-reply footer {
 
 .outside .display-embedded:hover,
 .outside .display-image:hover {
-  background: #FFF;
+  background: #292929;
 }
 
 .outside .message-metadata {
@@ -1059,7 +1059,7 @@ body#eo-reply footer {
 }
 
 body.mobileMode body#eo-reply #message-body iframe {
-  background: #FFF;
+  background: #292929;
 }
 
 body {
@@ -1130,7 +1130,7 @@ pre {
 }
 
 .alert {
-  background: #e5e5e5;
+    background: #101010;
 }
 
 .alert a {
@@ -1161,7 +1161,7 @@ pre {
 }
 
 .alert .pm_button {
-  background: #FFF !important;
+  background: #292929 !important;
 }
 
 .alert .pm_select,
@@ -1171,7 +1171,7 @@ pre {
 .alert input[type='email'],
 .alert input[type='search'],
 .alert textarea {
-  background: #FFF !important;
+  background: #292929 !important;
 }
 
 .labelDropdown .pm_button.link {
@@ -1223,7 +1223,7 @@ form.searchForm #advancedSearchDropdown label {
 }
 
 form.searchForm #advancedSearchDropdown .wrap {
-  background: #FFF;
+  background: #292929;
 }
 
 body.mobileMode form.searchForm #advancedSearchDropdown .wrap {
@@ -1369,7 +1369,7 @@ body .cg-notify-message.notification-info {
 
 #plans .plans .plan.plus-plan footer,
 #plans .plans .plan.plus-plan header {
-  background: #FFF;
+  background: #292929;
 }
 
 #plans .plans .plan section {
@@ -1508,11 +1508,11 @@ body .cg-notify-message.notification-info {
 }
 
 .composerAskEmbdded-details {
-  background: #FFF;
+  background: #292929;
 }
 
 .composerInputMeta-overlay {
-  background: #FFF;
+  background: #292929;
   color: #333;
 }
 
@@ -1521,7 +1521,7 @@ body .cg-notify-message.notification-info {
 }
 
 .progressLoader-container.pm_button {
-  background: #FFF !important;
+  background: #292929 !important;
 }
 
 [class*='listAttachments-icon'].embedded {
@@ -1538,7 +1538,7 @@ body .cg-notify-message.notification-info {
 }
 
 .squire-dropzone {
-  background: #FFF;
+  background: #292929;
 }
 
 .conversation .expiration,
@@ -1555,7 +1555,7 @@ body #conversation-list-rows .conversation .expiration {
 }
 
 .conversation .row .pm_labels label {
-  background: #FFF;
+  background: #292929;
 }
 
 .conversation.read {
@@ -1614,11 +1614,11 @@ body #conversation-list-rows .conversation .subject h4 {
 }
 
 body #conversation-list-rows .conversation .subject .pm_labels {
-  background: #FFF;
+  background: #292929;
 }
 
 body #conversation-list-rows .conversation .subject .pm_labels label {
-  background: #FFF;
+  background: #292929;
 }
 
 body #conversation-list-rows .conversation.read,
@@ -1787,7 +1787,7 @@ body.mobileMode #body #pm_main .fa-square-o {
 }
 
 .pm_dropdown {
-  background: #FFF;
+  background: #292929;
   border: 1px solid #333333;
 }
 
@@ -1819,7 +1819,7 @@ body.mobileMode #body #pm_main .fa-square-o {
 }
 
 .pm_modal .modal-dialog {
-  background: #FFF;
+  background: #292929;
   border: 5px solid #141414;
 }
 
@@ -1829,33 +1829,34 @@ body.mobileMode #body #pm_main .fa-square-o {
 }
 
 .pm_modal .modal-dialog .modal-content {
-  background: #FFF;
+  background: #292929;
 }
 
 .pm_modal .modal-dialog .modal-content .modal-body {
   box-shadow: inset 0 1px 0 #333333, inset 0 -1px 0 #333333;
+    background-color: #292929;
 }
 
 .pm_modal .modal-dialog .modal-footer {
-  background-color: #FFF;
+  background-color: #292929;
 }
 
 .pm_modal .modal-dialog .modal-content h1,
 .pm_modal .modal-dialog .modal-content h2,
 .pm_modal .modal-dialog .modal-content h3,
 .pm_modal .modal-dialog .modal-content h4 {
-  color: #222;
+  color: #fff;
 }
 
 .pm_modal .modal-dialog .modal-content h1 em,
 .pm_modal .modal-dialog .modal-content h2 em,
 .pm_modal .modal-dialog .modal-content h3 em,
 .pm_modal .modal-dialog .modal-content h4 em {
-  color: #CCC;
+  color: #fff;
 }
 
 body.mobileMode .pm_modal .modal-dialog {
-  background: #FFF;
+  background: #292929;
 }
 
 body.mobileMode .pm_modal .modal-dialog .close {
@@ -1907,7 +1908,7 @@ body.mobileMode .pm_modal .modal-dialog .close {
 }
 
 .pm_form select {
-  background: #FFF;
+  background: #292929;
 }
 
 .pm_form .input-icon .fa {
@@ -1976,25 +1977,10 @@ body.mobileMode .pm_modal .modal-dialog .close {
   border-color: #141414;
 }
 
-.pm_form input[type='text'].disabled,
-.pm_form input[type='text'][disabled],
-.pm_form input[type='number'].disabled,
-.pm_form input[type='number'][disabled],
-.pm_form input[type='password'].disabled,
-.pm_form input[type='password'][disabled],
-.pm_form input[type='email'].disabled,
-.pm_form input[type='email'][disabled],
-.pm_form input[type='search'].disabled,
-.pm_form input[type='search'][disabled],
-.pm_form input[type='tel'].disabled,
-.pm_form input[type='tel'][disabled],
-.pm_form select.disabled,
-.pm_form select[disabled],
-.pm_form textarea.disabled,
-.pm_form textarea[disabled] {
-  color: #CCC;
-  border-color: #CCC;
-  background: #e5e5e5;
+.pm_form input[type='text'].disabled, .pm_form input[type='text'][disabled], .pm_form input[type='number'].disabled, .pm_form input[type='number'][disabled], .pm_form input[type='password'].disabled, .pm_form input[type='password'][disabled], .pm_form input[type='email'].disabled, .pm_form input[type='email'][disabled], .pm_form input[type='search'].disabled, .pm_form input[type='search'][disabled], .pm_form input[type='tel'].disabled, .pm_form input[type='tel'][disabled], .pm_form select.disabled, .pm_form select[disabled], .pm_form textarea.disabled, .pm_form textarea[disabled] {
+    color: #CCC;
+    border-color: #CCC;
+    background: #323232;
 }
 
 .pm_form input[type='text'].success,
@@ -2041,7 +2027,7 @@ body.mobileMode .pm_modal .modal-dialog .close {
 
 
 body.light .pm_panel {
-  background: #FFF;
+  background: #292929;
   color: #ffffff;
 }
 
@@ -2097,7 +2083,7 @@ body.light .pm_panel {
 }
 
 .pm_toggle span.knob {
-  background: #FFF;
+  background: #292929;
   border: 1px solid #333333;
 }
 
@@ -2127,7 +2113,7 @@ body.light .pm_panel {
 
 .pm_sort ul li {
   border-bottom: 1px solid #333333;
-  background: #FFF;
+  background: #292929;
 }
 
 .pm_sort ul li.highlight {
@@ -2144,7 +2130,7 @@ body.light .pm_panel {
 }
 
 .pm_sort ul li .fa.fa-check {
-  background: #FFF;
+  background: #292929;
 }
 
 .as-sortable-placeholder {
@@ -2153,7 +2139,7 @@ body.light .pm_panel {
 
 .as-sortable-dragging {
   border: 1px solid #333333;
-  background: #FFF;
+  background: #292929;
 }
 
 .image.loading:after,
@@ -2162,7 +2148,7 @@ body.light .pm_panel {
 }
 
 .as-sortable-dragging .fa-check {
-  background: #FFF;
+  background: #292929;
 }
 
 .as-sortable-dragging .fa-ellipsis-v {
@@ -2170,7 +2156,7 @@ body.light .pm_panel {
 }
 
 #pm_loader.full {
-  background: #FFF;
+  background: #292929;
 }
 
 #pm_slow,
@@ -2179,11 +2165,11 @@ body.light .pm_panel {
 }
 
 #pm_loading {
-  background: #FFF;
+  background: #292929;
 }
 
 .image.loading:after {
-  background: #FFF;
+  background: #292929;
 }
 
 .pm_buttons a, .pm_buttons button {
@@ -2307,7 +2293,7 @@ input[type='range'].pm_range:focus::-ms-fill-upper {
 }
 
 .alert.alert-danger a, .alert.alert-info a, .alert.alert-success a, .alert.alert-warning a {
-    color: red;
+    color:#d23f31;
 }
 
 *:focus {outline:0;}
@@ -2316,9 +2302,36 @@ input[type='range'].pm_range:focus::-ms-fill-upper {
     color: #fff !important;
 }
 
-.vpn-container .vpn-ressourcesSection-clients-list {
-    border: none !important;
-    background: #141414 !important;
+
+
+.vpn-container .vpn-ressourcesSection-clients-item-container {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    height: 150px;
+    padding-top: 1em;
+    text-decoration: none;
+    border-radius: 6px;
+    background: #505050 !important;
+    border: 1px solid rgba(0,0,0,.15);
+    color: #505061;
+    -webkit-transition: all .3s cubic-bezier(.25,.46,.45,.94);
+    transition: all .3s cubic-bezier(.25,.46,.45,.94);
+    cursor: pointer;
 }
 
 .key-row{background-color: #515151}
@@ -2380,7 +2393,7 @@ body[id^=secured-allSent] .pm_buttons .moveElement-btn-spam, body[id^=secured-ar
     padding: 0;
     -webkit-box-shadow: 0 1px 2px 0 rgba(0,0,0,.1);
     box-shadow: 0 1px 2px 0 rgba(0,0,0,.1);
-    background: #fff;
+    background: #292929;
 }
 
 .readUnread-container.disabled [class*=readUnread-btn] {
@@ -2446,7 +2459,7 @@ body[id^=secured-allSent] .pm_buttons .moveElement-btn-spam, body[id^=secured-ar
     -ms-flex: 1;
     flex: 1;
     background-color: #141414 !important;
-}
+    background: #141414 !important;}
 .settingsDashboard-plans:after, .settingsDashboard-plans:before {
     background-color: #141414 !important;
 }
@@ -2498,4 +2511,107 @@ body[id^=secured-allSent] .pm_buttons .moveElement-btn-spam, body[id^=secured-ar
 .totalRows-2-years-price, .totalRows-monthly-price, .totalRows-yearly-price {
     font-size: 1.1rem;
     color: #d23f31 !important;
+}
+
+[class*=squireToolbar-row] .squireToolbar-action-mode:active, [class*=squireToolbar-row] .squireToolbar-action-mode:hover, [class*=squireToolbar-row] [class*=squireToolbar-action-]:active, [class*=squireToolbar-row] [class*=squireToolbar-action-]:hover {
+    background: #515151;
+    border: 1px solid white;
+    color: #ffffff;
+}
+
+[class*=squireToolbar-row] .squireToolbar-select-view button:active, [class*=squireToolbar-row] .squireToolbar-select-view button:hover, [class*=squireToolbar-row] .squireToolbar-select-view button:hover:not(:active) {
+    background: #515151;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border: 0;
+}
+
+[class*=squireToolbar-action-] {
+    -webkit-flex-shrink: 0;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    border: 0;
+    padding: 0;
+    background: #333333;
+    width: 36px;
+    height: 26px;
+    margin: 4px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: white;
+    word-wrap: break-word;
+    white-space: nowrap;
+    border-radius: 2px;
+}
+
+.pm_modal.small .modal-dialog .modal-content .modal-body, .pm_modal.small .modal-dialog .modal-content .modal-header {
+    background-color: #292929;
+    padding: 1rem 2rem;
+}
+
+.labelColorSelector-item-mask {
+    position: absolute;
+    display: -webkit-inline-box;
+    display: -webkit-inline-flex;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    z-index: 2;
+    background: currentColor;
+    border: 2px solid #141414;
+    pointer-events: none;
+    -webkit-transition: border .1s ease-out;
+    transition: border .1s ease-out;
+}
+
+.pm_modal .modal-dialog .modal-content .modal-header {
+    background-color: #292929;
+    padding: 1rem 2rem;
+}
+
+.settingsDashboard-overview-section-table-container .overviewSection-container .overviewSection-tbody-billing {
+    -webkit-box-flex: 1;
+    -webkit-flex: 1 0 auto;
+    -ms-flex: 1 0 auto;
+    flex: 1 0 auto;
+    padding: 0;
+    background-color: #323232;
+    background-size: 8px;
+}
+
+.autoresponderMessageDisabler {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 2000;
+    background: hsla(0, 0%, 2%, 0.8);
+    margin: 1px;
+}
+
+.pm_form .input-icon {
+    position: relative;
+    background-color: #292929;
+}
+
+.composerInputMeta-overlay-list .svg-ellipsis-clipper {
+    position: absolute;
+    background: none;
+    height: 100%;
+    width: 26px;
+    right: 35px;
+    z-index: -10;
 }
