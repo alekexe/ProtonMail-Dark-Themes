@@ -1,7 +1,7 @@
 # ProtonMail Dark Themes - Red
 ⭐ Please star this repository if you like it😃
 
-If you want to use this theme, please star this repository and [copy this code]() than paste it in Settings > Appearance > Custom Theme.
+If you want to use this theme, please star this repository and [copy this code](https://raw.githubusercontent.com/alekexe/ProtonMail-Dark-Themes/master/red-protonmail-dark-theme/red-protonmail-dark-theme.css) than paste it in Settings > Appearance > Custom Theme.
 
 
 <p align="center"><img src="https://raw.githubusercontent.com/alekexe/ProtonMail-Dark-Themes/master/red-protonmail-dark-theme/preview-images/preview.png"><br></p>
