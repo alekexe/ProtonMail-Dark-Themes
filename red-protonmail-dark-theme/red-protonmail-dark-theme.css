@@ -2615,3 +2615,12 @@ body[id^=secured-allSent] .pm_buttons .moveElement-btn-spam, body[id^=secured-ar
     right: 35px;
     z-index: -10;
 }
+
+.settingsDashboard-overview-section-table-container .overviewSection-container .overviewSection-tbody-billing {
+    -webkit-box-flex: 1;
+    -webkit-flex: 1 0 auto;
+    -ms-flex: 1 0 auto;
+    flex: 1 0 auto;
+    padding: 1em 0;
+    background: none !important;
+}
