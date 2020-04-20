@@ -19,7 +19,7 @@ Click on the color that you want to preview and get the CSS Code
 - [ ] [Purple - Open my folder]()
 - [ ] [White - Open my folder]()
 - [ ] [Pink - Open my folder]()
-- [x  [How to change the accent color]()
+- [ ]  [How to change the accent color]()
 
 ## Contribute
 
