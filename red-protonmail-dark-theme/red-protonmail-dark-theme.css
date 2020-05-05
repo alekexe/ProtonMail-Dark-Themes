@@ -2624,3 +2624,7 @@ body[id^=secured-allSent] .pm_buttons .moveElement-btn-spam, body[id^=secured-ar
     padding: 1em 0;
     background: none !important;
 }
+
+body #conversation-list-rows .conversation .subject h4 {
+    color: #d23f31;
+}
