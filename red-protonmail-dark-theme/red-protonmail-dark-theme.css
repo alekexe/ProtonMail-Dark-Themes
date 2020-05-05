@@ -1529,8 +1529,8 @@ body .cg-notify-message.notification-info {
 }
 
 .listAttachments-list .listAttachments-att {
-  color: #ffffff;
-  background: #f4f4f4;
+    color: #ffffff;
+    background: #141414;
 }
 
 .listAttachments-list .listAttachments-att:after {
