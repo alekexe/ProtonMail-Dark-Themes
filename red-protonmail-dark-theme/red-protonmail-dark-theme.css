@@ -1789,6 +1789,7 @@ body.mobileMode #body #pm_main .fa-square-o {
 .pm_dropdown {
   background: #292929;
   border: 1px solid #333333;
+  color: #ffffff;
 }
 
 .pm_dropdown > a,
