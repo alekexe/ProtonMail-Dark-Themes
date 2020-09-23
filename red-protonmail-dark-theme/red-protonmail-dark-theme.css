@@ -1751,7 +1751,7 @@ body #conversation-list-rows .conversation.read .subject h4 {
 }
 
 .pm_buttons a {
-  color: #666;
+  color: #ffffff;
 }
 
 
@@ -2381,7 +2381,7 @@ body[id^=secured-allSent] .pm_buttons .moveElement-btn-spam, body[id^=secured-ar
 }
 
 .pm_buttons>.pm_buttons-child.fa:before, .pm_buttons>.pm_buttons-child>div {
-    color: #666 !important;
+    color: #ffffff !important;
 }
 
 .pm_buttons>.pm_buttons-child.fa:before::hover{
