@@ -12,9 +12,9 @@
 ## Colors
 Click on the color that you want to preview and get the CSS Code
 - [x] [Red - Open my folder](https://github.com/alekexe/ProtonMail-Dark-Themes/tree/master/red-protonmail-dark-theme)
-- [x] [Orange - Open my folder]()
+- [x] [Orange - Open my folder](https://github.com/alekexe/ProtonMail-Dark-Themes/tree/master/orange-protonmail-dark-theme)
 - [ ] [Yellow - Open my folder]()
-- [ ] [Green - Open my folder]()
+- [x] [Green - Open my folder](https://github.com/alekexe/ProtonMail-Dark-Themes/tree/master/green-protonmail-dark-theme)
 - [ ]  [Blue - Open my folder]()
 - [ ] [Purple - Open my folder]()
 - [ ] [White - Open my folder]()

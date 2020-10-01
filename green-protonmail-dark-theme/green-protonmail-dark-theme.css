@@ -15,7 +15,7 @@ body section.sidebar div.labels ul li a:hover {
 }
 
 .storageBar .storageBar-progress {
-    background-color:#FF8C00 !important;
+    background-color:#27e941 !important;
 }
 #pm_main {
   background-color: #141414 !important;
@@ -24,7 +24,7 @@ body section.sidebar div.labels ul li a:hover {
 
 .message-body-container a{
 
-  color:#FF8C00;
+  color:#27e941;
 }
 #pm_toolbar-desktop,
 body #conversation-list-rows,
@@ -51,7 +51,7 @@ conversation {
   background-color: transparent !important;
 }
 body section.sidebar .pm_button.compose, body section.sidebar .sidebar-btn-back {
-    background-color: #FF8C00;
+    background-color: #27e941;
     color: #fff !important;
     border-width: 0 !important;
     box-shadow: none;
@@ -118,7 +118,7 @@ body.mobileMode #pm_sidebar section.sidebar .userDisplay strong {
   color: #ffffff !important;
 }
 body.mobileMode #pm_sidebar section.sidebar .pm_button.round {
-  background: #FF8C00;
+  background: #27e941;
   border-color: transparent;
 }
 .conversation:not(.active) {
@@ -162,7 +162,7 @@ body section.sidebar ul.menu li.active a {
 }
 .navigation > li.active, .navigation > li:hover {
     box-shadow: none;
-    border-color: #FF8C00;
+    border-color: #27e941;
 }
 
 body #conversation-list-rows .conversation .subject,
@@ -261,11 +261,11 @@ html.protonmail .text-yellow {
 }
 
 html.protonmail .text-red {
-  color: #FF8C00;
+  color: #27e941;
 }
 
 html.protonmail .text-purple {
-  color:#FF8C00 !important;
+  color:#27e941 !important;
 }
 
 html.protonmail .border-panel {
@@ -850,7 +850,7 @@ body#reset .alert {
 }
 
 #pm_settings .settings #keys-addressTable td .fa-times-circle {
-  color: #FF8C00;
+  color: #27e941;
 }
 
 #pm_settings .settings #keys-addressTable td .fa-check {
@@ -1261,7 +1261,7 @@ body .cg-notify-message.notification-warning {
 }
 
 body .cg-notify-message.notification-danger {
-  background-color: #FF8C00;
+  background-color: #27e941;
 }
 
 body .cg-notify-message.notification-info {
@@ -1311,8 +1311,8 @@ body .cg-notify-message.notification-info {
 }
 
 .autocompleteEmails-item-invalid {
-  border-color: #FF8C00;
-  color: #FF8C00;
+  border-color: #27e941;
+  color: #27e941;
 }
 
 .autocompleteEmails-field .awesomplete ul {
@@ -1576,7 +1576,7 @@ body #conversation-list-rows .conversation .expiration {
 }
 
 .conversation.marked::before {
-  background-color: #FF8C00 !important;
+  background-color: #27e941 !important;
 }
 
 .conversation.active {
@@ -1705,7 +1705,7 @@ body #conversation-list-rows .conversation.read .subject h4 {
 }
 
 .pm_button.error {
-  background-color: #FF8C00;
+  background-color: #27e941;
   border-color: #de5245;
   color: #FFF;
 }
@@ -1951,7 +1951,7 @@ body.mobileMode .pm_modal .modal-dialog .close {
 .pm_form input[type='tel'].ng-invalid.ng-touched,
 .pm_form select.ng-invalid.ng-touched,
 .pm_form textarea.ng-invalid.ng-touched {
-  border-color: #FF8C00;
+  border-color: #27e941;
 }
 
 .pm_form input[type='text']:hover,
@@ -2089,7 +2089,7 @@ body.light .pm_panel {
 
 
 .pm_toggle-checkbox:checked+.pm_toggle-label {
-    background-color: #FF8C00;
+    background-color: #27e941;
 }
 
 .pm_toggle.off .off,
@@ -2256,7 +2256,7 @@ input[type='range'].pm_range:focus::-ms-fill-upper {
 }
 
 .pm_badge.error {
-  background-color: #FF8C00;
+  background-color: #27e941;
 }
 
 .pm_badge.warning {
@@ -2293,7 +2293,7 @@ input[type='range'].pm_range:focus::-ms-fill-upper {
 }
 
 .alert.alert-danger a, .alert.alert-info a, .alert.alert-success a, .alert.alert-warning a {
-    color:#FF8C00;
+    color:#27e941;
 }
 
 *:focus {outline:0;}
@@ -2470,22 +2470,22 @@ body[id^=secured-allSent] .pm_buttons .moveElement-btn-spam, body[id^=secured-ar
 }   
 
 .settingsDashboard-plans [class*=Column-container] .isCurrent {
-    background: #FF8C00 !important;
+    background: #27e941 !important;
     border-radius: 2px 2px 0 0 !important;
-    -webkit-box-shadow: 0 0 8px #FF8C00, 0 0 0 2px #FF8C00 !important;
-    box-shadow: 0 0 8px #FF8C00, 0 0 0 2px #FF8C00 !important;
-    border-bottom: 1px solid #FF8C00 !important;
+    -webkit-box-shadow: 0 0 8px #27e941, 0 0 0 2px #27e941 !important;
+    box-shadow: 0 0 8px #27e941, 0 0 0 2px #27e941 !important;
+    border-bottom: 1px solid #27e941 !important;
 }
 
 .settingsDashboard-plans.free-active .freeColumn-container, .settingsDashboard-plans.plus-active .plusColumn-container, .settingsDashboard-plans.professional-active .professionalColumn-container, .settingsDashboard-plans.visionary-active .visionaryColumn-container {
-    border-color: #FF8C00  !important;
-    -webkit-box-shadow: 0 0 8px #FF8C00, 0 0 0 2px #FF8C00  !important;
-    box-shadow: 0 0 8px #FF8C00, 0 0 0 2px #FF8C00 !important;
+    border-color: #27e941  !important;
+    -webkit-box-shadow: 0 0 8px #27e941, 0 0 0 2px #27e941  !important;
+    box-shadow: 0 0 8px #27e941, 0 0 0 2px #27e941 !important;
     border-radius: 0 0 2px 2px !important;
 }
 
 .vpnRow-add, .vpnRow-add:hover {
-    background-color: #FF8C00 !important;
+    background-color: #27e941 !important;
 }
 
 .settingsDashboard-plans .freeColumn-free {
@@ -2503,14 +2503,14 @@ body[id^=secured-allSent] .pm_buttons .moveElement-btn-spam, body[id^=secured-ar
     -ms-flex-pack: center;
     justify-content: center;
     width: 100%;
-    color: #FF8C00 !important;
+    color: #27e941 !important;
     font-size: 1.1rem;
     font-weight: 700;
 }
 
 .totalRows-2-years-price, .totalRows-monthly-price, .totalRows-yearly-price {
     font-size: 1.1rem;
-    color: #FF8C00 !important;
+    color: #27e941 !important;
 }
 
 [class*=squireToolbar-row] .squireToolbar-action-mode:active, [class*=squireToolbar-row] .squireToolbar-action-mode:hover, [class*=squireToolbar-row] [class*=squireToolbar-action-]:active, [class*=squireToolbar-row] [class*=squireToolbar-action-]:hover {
@@ -2626,5 +2626,5 @@ body[id^=secured-allSent] .pm_buttons .moveElement-btn-spam, body[id^=secured-ar
 }
 
 body #conversation-list-rows .conversation .subject h4 {
-    color: #FF8C00;
+    color: #27e941;
 }
