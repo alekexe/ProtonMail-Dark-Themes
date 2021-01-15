@@ -11,10 +11,10 @@
 
 ## Colors
 Click on the color that you want to preview and get the CSS Code
-- [x] [Red - Open my folder](https://github.com/alekexe/ProtonMail-Dark-Themes/tree/master/red-protonmail-dark-theme)
-- [x] [Orange - Open my folder](https://github.com/alekexe/ProtonMail-Dark-Themes/tree/master/orange-protonmail-dark-theme)
+- [x] [Red - Open my folder](https://github.com/AkhileshAdithya/ProtonMail-Dark-Themes/tree/master/red-protonmail-dark-theme)
+- [x] [Orange - Open my folder](https://github.com/AkhileshAdithya/ProtonMail-Dark-Themes/tree/master/orange-protonmail-dark-theme)
 - [ ] [Yellow - Open my folder]()
-- [x] [Green - Open my folder](https://github.com/alekexe/ProtonMail-Dark-Themes/tree/master/green-protonmail-dark-theme)
+- [x] [Green - Open my folder](https://github.com/AkhileshAdithya/ProtonMail-Dark-Themes/tree/master/green-protonmail-dark-theme)
 - [ ]  [Blue - Open my folder]()
 - [ ] [Purple - Open my folder]()
 - [ ] [White - Open my folder]()
@@ -23,7 +23,7 @@ Click on the color that you want to preview and get the CSS Code
 
 ## Contribute
 
-Spot a problem or bug? You can open an [issue here](https://github.com/alekexe/ProtonMail-Dark-Themes/issues).
+Spot a problem or bug? You can open an [issue here](https://github.com/AkhileshAdithya/ProtonMail-Dark-Themes/issues).
 You can notify me about the bug or even fix it yourself and push a pull request if you want to.
 
 ## Share with friends
